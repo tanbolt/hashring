@@ -1,0 +1,2 @@
+# hashring
+hashing utilities
